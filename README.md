@@ -1,4 +1,3 @@
-# MTE studios 
 Hello, and welcome to MDE studios ! 
 We're small development group from Bulgaria. We're currently working on our latest research project: A car-selling website.
 

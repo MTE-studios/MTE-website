@@ -1,4 +1,4 @@
-# View the [Live demo](https://mtw-studios.github.io/MTE-website/src/html/landing.html) !
+# View the [Live demo](https://mte-studios.github.io/MTE-website/src/html/landing.html) !
 ## Live demo only Represents UX/UI without most of functionality. Planning to add frontend/backend communications with database and payment system.
 
 # Current Stack: 

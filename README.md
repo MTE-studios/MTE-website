@@ -8,5 +8,5 @@
 Planning to use: Vue JS and Golang/C/C++ backend.
 
 # About us: 
-Hello, and welcome to MDE studios ! 
+Hello, and welcome to MTE studios ! 
 We're small development group from Bulgaria. We're currently working on our latest research project: A car-selling website.
